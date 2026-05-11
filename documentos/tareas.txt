@@ -1,3 +1,21 @@
-- Crear estructura inicial
-- Actualizar documentos
-- Revisar conflictos
+Buenas!
+La tarea consiste en trabajar sobre un proyecto colaborativo utilizando Git y GitHub Desktop. Cada integrante del grupo deberá completar los siguientes pasos:
+
+-Crear una rama individual para trabajar.
+-El nombre de la rama debe ser el nombre del alumno correspondiente.
+-Organizar el grupo y definir quién será:
+    Integrante 1
+    Integrante 2
+    Integrante 3
+    Integrante 4
+
+-Cada integrante deberá ingresar a su archivo correspondiente y escribir:
+    Dos verdades y una mentira
+-Una vez hecho lo anterior crear una carpeta llamada privado y dentro de ella crear un archivo llamado respuesta.txt
+-Una vez realizados los cambios:
+    Hacer commit y hacer push de la rama al repositorio remoto
+
+-Cuando TODOS los integrantes hayan terminado sus tareas, continuar con la siguiente actividad:
+    Revisar los archivos creados por sus compañeros/as y en el archivo notas.txt, escribir cuál creen que es la mentira de cada integrante.
+
+-Hacer commit y hacer push al repositorio remoto, notar la cantidad de CONFLICTOS que se generan en esta parte
