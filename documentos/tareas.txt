@@ -1,0 +1,3 @@
+- Crear estructura inicial
+- Actualizar documentos
+- Revisar conflictos
